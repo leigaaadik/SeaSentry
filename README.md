@@ -54,9 +54,9 @@ Before running the test, you **must** configure the client to point to a valid i
 2.  Locate the following line:
     ```python
     # ‼️ IMPORTANT: Make sure this path points to a real file on your system.
-    test_image_path = "./model_architecture.png" 
+    test_image_path = "./testPic.png" 
     ```
-3.  Replace the path string `"./model_architecture.png"` with the **absolute path to an image file** on your computer.
+3.  Replace the path string `"./testPic.png"` with the **absolute path to an image file** on your computer.
 
 ### Step 2: Start the API Server
 
@@ -217,9 +217,9 @@ This interface allows you to explore all API endpoints, view their schemas, and 
 2.  找到下面这行代码：
     ```python
     # ‼️ 重要：请确保此路径指向您系统上的一个真实文件。
-    test_image_path = "./model_architecture.png" 
+    test_image_path = "./testPic.png" 
     ```
-3.  将路径字符串 `"./model_architecture.png"` **替换为您电脑上任意一张图片的绝对路径**。
+3.  将路径字符串 `"./testPic.png"` **替换为您电脑上任意一张图片的绝对路径**。
 
 ### 第二步：启动API服务器
 

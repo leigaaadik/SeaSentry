@@ -83,7 +83,7 @@ def call_visible_identify_api(image_path: str):
 if __name__ == "__main__":
     # --- 在这里配置你要测试的图片路径 ---
     # ‼️ 重要: 请确保下面的路径指向一个真实存在的文件。
-    test_image_path = "./model_architecture.png" 
+    test_image_path = "./testPic.png" 
 
     # --- 新增：路径检查逻辑 ---
     # 在执行任何操作前，首先检查测试文件是否存在。
